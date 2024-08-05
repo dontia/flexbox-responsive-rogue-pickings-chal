@@ -58,6 +58,7 @@ header h1 {
 	width: 100%;
 	margin: 0;
 	padding: 38px 0;
+	border-bottom: 3px solid #77A466;
 }
 
 header h1 span {
