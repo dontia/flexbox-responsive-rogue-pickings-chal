@@ -42,8 +42,8 @@ p {
 /******** HEADER STYLES ********/
 /* The widths are in a percentage! */
 header {
-	height: 110px;
-
+	display: flex;
+	justify-content: center;
 }
 
 header h1 {
