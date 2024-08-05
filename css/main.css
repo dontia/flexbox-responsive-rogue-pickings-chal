@@ -27,23 +27,23 @@ h4 {
 }
 
 h1 {
-	font-size: 30px;
+	font-size: 1.875em;
 }
 
 h2 {
-	font-size: 24px;
+	font-size: 1.5em;
 }
 
 h3 {
-	font-size: 20px;
+	font-size: 1.25em;
 }
 
 h4 {
-	font-size: 12px;
+	font-size: .75em;
 }
 
 p {
-	line-height: 36px;
+	line-height: 2.25em;
 }
 
 /******** HEADER STYLES ********/
@@ -147,8 +147,8 @@ header nav ul li a {
 
 .menu-list li {
 	color: #45610E;
-	font-size: 16px;
-	line-height: 36px;
+	font-size: 1em;
+	line-height: 2.25em;
 }
 
 /******** FOOTER STYLES ********/
@@ -164,5 +164,5 @@ footer span {
 	font-family: 'Galada', cursive;
 	text-transform: lowercase;
 	color: #45610E;
-	font-size: 14px;
+	font-size: .875em;
 }
