@@ -96,7 +96,10 @@ header nav ul li a {
 
 /******** BOTTOM SECTION ********/
 .top-section,
-.bottom-section {}
+.bottom-section {
+	display: flex;
+	justify-content: center;
+}
 
 .bottom-section .content-wrapper {
 	border-top: 5px solid #EEE;
@@ -145,6 +148,8 @@ header nav ul li a {
 footer {
 	text-align: center;
 	margin-top: 8px;
+	display: flex;
+	justify-content: center;
 }
 
 footer span {
