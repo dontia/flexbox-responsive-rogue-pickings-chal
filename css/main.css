@@ -171,7 +171,24 @@ footer span {
 }
 
 /******** TABLET STYLES ********/
-@media all and (min-width: 768px) {}
+@media all and (min-width: 768px) {
+
+	.bottom-section .content-wrapper {
+		justify-content: space-evenly;
+	}
+
+	.section-one {
+		width: 29%;
+	}
+
+	.section-two {
+		width: 42%;
+	}
+
+	.section-three {
+		width: 29%;
+	}
+}
 
 /******** DESKTOP STYLES ********/
 @media all and (min-width: 1200px) {}
