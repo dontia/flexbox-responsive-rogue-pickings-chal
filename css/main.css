@@ -179,6 +179,7 @@ footer span {
 
 	.section-one {
 		width: 29%;
+		padding-left: 10px;
 	}
 
 	.section-two {
@@ -192,6 +193,7 @@ footer span {
 
 	.section-three {
 		width: 29%;
+		padding-left: 10px;
 	}
 }
 
