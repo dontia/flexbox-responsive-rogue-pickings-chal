@@ -204,7 +204,12 @@ footer span {
 		font-size: 1em;
 	}
 
-	header .content-wrapper {}
+	header .content-wrapper {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 20px 0;
+	}
 
 	header h1 {
 		width: 25%;
