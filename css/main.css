@@ -198,4 +198,9 @@ footer span {
 }
 
 /******** DESKTOP STYLES ********/
-@media all and (min-width: 1200px) {}
+@media all and (min-width: 1200px) {
+
+	body {
+		font-size: 1em;
+	}
+}
