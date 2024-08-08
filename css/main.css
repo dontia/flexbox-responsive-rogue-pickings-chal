@@ -205,4 +205,13 @@ footer span {
 	}
 
 	header .content-wrapper {}
+
+	header h1 {
+		width: 25%;
+	}
+
+	header nav {
+		width: 21%;
+	}
+
 }
