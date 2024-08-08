@@ -203,4 +203,6 @@ footer span {
 	body {
 		font-size: 1em;
 	}
+
+	header .content-wrapper {}
 }
