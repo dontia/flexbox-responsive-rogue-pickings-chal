@@ -208,6 +208,8 @@ footer span {
 
 	header h1 {
 		width: 25%;
+		border-bottom: none;
+		text-align: left;
 	}
 
 	header nav {
