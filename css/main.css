@@ -216,4 +216,8 @@ footer span {
 		width: 21%;
 	}
 
+	header nav ul {
+		display: flex;
+		justify-content: space-between;
+	}
 }
